@@ -1,6 +1,6 @@
-# Regional_Sales_Analytics
+# Superstore_Sales_Analytics
 A comprehensive sales data analysis project that explores the Superstore Sales dataset to uncover regional performance trends, product category insights, customer segment behavior, and shipping patterns across the United States using data analytics and visualization tools. 
-# 🛒 Regional Sales — Superstore Sales Data Analysis
+  Superstore Sales Data Analysis
 
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-217346?logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20Matplotlib-3776AB?logo=python&logoColor=white)
